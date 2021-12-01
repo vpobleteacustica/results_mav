@@ -1,16 +1,9 @@
-<html>
-<head>
-<style>
-.p1 {
-  font-family: "centurygothic";
-}
-</style>
+# Respuestas de los Graduados
 
-</head>
-<body>
+## Resumen 
 
-# <p1 class="p1">Análisis de encuestas egresados</p1>
-<h1 style="color: black;"><p1 class="p1">Resumen de las respuestas </p1></h1>
-<p1 class="p1">En esta sesión visualizaremos datos y análisis de las respuestas de los encuestados. El resultado es un libro interactivo que se aloja en un sitio web y permite visualizaciones y en general mostrar cualquier resultado basados en Python.</p1>
-</body>
-</html>
+Se analizan resultados de las encuestas de graduados del Magister en Acústica y Vibraciones de la Universidad Austral de Chile.
+
+## Análisis de la empleabilidad
+
+A continuación se muestran gráficos del estado de empleabilidad y la distribución del tipo de empleo.
