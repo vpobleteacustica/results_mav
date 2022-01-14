@@ -1,4 +1,4 @@
-# Extracción de datos a partir de las respuestas ((opiniones)) de encuestas de 26 Graduados entre los años 2010-2021
+# Extracción de datos a partir de las respuestas (opiniones) de encuestas de 26 Graduados entre los años 2010-2021
 
 ## <span style="color:#AC1212">*Resumen*:</span> 
 
